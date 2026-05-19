@@ -1,0 +1,1 @@
+Doc11: Cybersecurity protects computers, networks, and data from unauthorized access, damage, and theft. Common defenses include authentication, encryption, firewalls, secure coding, and regular patching. Students of cybersecurity learn to identify threats such as phishing, malware, and weak passwords, then design controls that reduce risk.

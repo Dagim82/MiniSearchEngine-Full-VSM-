@@ -1,0 +1,1 @@
+Doc20: Deep Learning uses layered neural networks to learn complex patterns from data. Convolutional networks are useful for images, recurrent networks and transformers help with sequences, and training depends on large datasets and optimization methods like gradient descent. Deep learning has advanced speech recognition, vision, and language understanding.

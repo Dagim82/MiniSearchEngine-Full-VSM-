@@ -1,0 +1,1 @@
+Doc13: Cloud Computing delivers computing resources such as servers, storage, and software over the internet on demand. Service models include infrastructure as a service, platform as a service, and software as a service. Cloud systems are valued for scalability, availability, elasticity, and pay-as-you-go cost models.

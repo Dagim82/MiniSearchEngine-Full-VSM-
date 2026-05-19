@@ -1,0 +1,1 @@
+Doc15: Programming Languages give developers a way to express algorithms and data structures in a form computers can execute. Different languages emphasize different features such as speed, safety, readability, or portability. Learning how syntax, semantics, and type systems work helps programmers choose the right language for each task.

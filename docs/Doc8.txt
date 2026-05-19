@@ -1,0 +1,1 @@
+Doc8: Data Science combines statistics, programming, and domain knowledge to extract useful insight from data. A data science workflow often includes collecting data, cleaning it, exploring patterns, building models, and communicating findings clearly. Analysts use visualization and reproducible notebooks to explain results and support decisions.

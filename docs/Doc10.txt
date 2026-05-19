@@ -1,0 +1,1 @@
+Doc10: Networking is the study of how computers communicate across local and global systems. Networks rely on protocols, routers, switches, and addressing schemes to move data between devices. Understanding bandwidth, latency, and packet routing helps explain how email, websites, and streaming services reach users.

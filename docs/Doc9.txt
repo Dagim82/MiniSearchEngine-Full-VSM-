@@ -1,0 +1,1 @@
+Doc9: Databases store and organize information so it can be searched, updated, and protected efficiently. Relational databases use tables, primary keys, and SQL to manage structured data, while non-relational systems support flexible storage for large or changing datasets. A well-designed database improves consistency, performance, and reliability.

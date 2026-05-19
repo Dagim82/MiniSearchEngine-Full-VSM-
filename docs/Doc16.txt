@@ -1,0 +1,1 @@
+Doc16: Web Development focuses on building applications that run in browsers and on servers. Front-end development uses HTML, CSS, and JavaScript to create interactive interfaces, while back-end development manages data, authentication, and business logic. Modern web systems often use APIs, responsive design, and performance optimization.

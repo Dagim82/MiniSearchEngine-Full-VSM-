@@ -1,0 +1,1 @@
+Doc18: Information Retrieval is the field of finding relevant information from large collections of documents. Search engines use indexing, ranking, query processing, and relevance scoring to return useful results quickly. Concepts such as term frequency, inverse document frequency, and precision help evaluate retrieval systems.

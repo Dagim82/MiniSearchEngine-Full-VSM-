@@ -1,0 +1,501 @@
+query,doc_id,relevance
+photosynthesis,Doc1,3
+photosynthesis,Doc4,2
+photosynthesis,Doc2,1
+photosynthesis,Doc5,0
+photosynthesis,Doc3,0
+light energy conversion in plants,Doc1,3
+light energy conversion in plants,Doc4,2
+light energy conversion in plants,Doc2,1
+light energy conversion in plants,Doc5,0
+light energy conversion in plants,Doc3,0
+chlorophyll and oxygen production,Doc1,3
+chlorophyll and oxygen production,Doc4,2
+chlorophyll and oxygen production,Doc2,1
+chlorophyll and oxygen production,Doc5,0
+chlorophyll and oxygen production,Doc3,0
+plant energy from sunlight,Doc1,3
+plant energy from sunlight,Doc4,2
+plant energy from sunlight,Doc2,1
+plant energy from sunlight,Doc5,0
+plant energy from sunlight,Doc3,0
+photosynthetic process in green plants,Doc1,3
+photosynthetic process in green plants,Doc4,2
+photosynthetic process in green plants,Doc2,1
+photosynthetic process in green plants,Doc5,0
+photosynthetic process in green plants,Doc3,0
+cell biology,Doc2,3
+cell biology,Doc5,2
+cell biology,Doc1,1
+cell biology,Doc4,0
+cell biology,Doc3,0
+cell membrane DNA and cytoplasm,Doc2,3
+cell membrane DNA and cytoplasm,Doc5,2
+cell membrane DNA and cytoplasm,Doc1,1
+cell membrane DNA and cytoplasm,Doc4,0
+cell membrane DNA and cytoplasm,Doc3,0
+prokaryotic and eukaryotic cells,Doc2,3
+prokaryotic and eukaryotic cells,Doc5,2
+prokaryotic and eukaryotic cells,Doc1,1
+prokaryotic and eukaryotic cells,Doc4,0
+prokaryotic and eukaryotic cells,Doc3,0
+smallest unit of life,Doc2,3
+smallest unit of life,Doc5,2
+smallest unit of life,Doc1,1
+smallest unit of life,Doc4,0
+smallest unit of life,Doc3,0
+cell structure and function,Doc2,3
+cell structure and function,Doc5,2
+cell structure and function,Doc1,1
+cell structure and function,Doc4,0
+cell structure and function,Doc3,0
+newton's laws of motion,Doc3,3
+newton's laws of motion,Doc4,2
+newton's laws of motion,Doc12,1
+newton's laws of motion,Doc1,0
+newton's laws of motion,Doc5,0
+force mass and acceleration,Doc3,3
+force mass and acceleration,Doc4,2
+force mass and acceleration,Doc12,1
+force mass and acceleration,Doc1,0
+force mass and acceleration,Doc5,0
+inertia and motion in physics,Doc3,3
+inertia and motion in physics,Doc4,2
+inertia and motion in physics,Doc12,1
+inertia and motion in physics,Doc1,0
+inertia and motion in physics,Doc5,0
+action and reaction forces,Doc3,3
+action and reaction forces,Doc4,2
+action and reaction forces,Doc12,1
+action and reaction forces,Doc1,0
+action and reaction forces,Doc5,0
+classical mechanics basics,Doc3,3
+classical mechanics basics,Doc4,2
+classical mechanics basics,Doc12,1
+classical mechanics basics,Doc1,0
+classical mechanics basics,Doc5,0
+states of matter,Doc4,3
+states of matter,Doc3,2
+states of matter,Doc12,1
+states of matter,Doc1,0
+states of matter,Doc5,0
+solid liquid and gas,Doc4,3
+solid liquid and gas,Doc3,2
+solid liquid and gas,Doc12,1
+solid liquid and gas,Doc1,0
+solid liquid and gas,Doc5,0
+phase changes in matter,Doc4,3
+phase changes in matter,Doc3,2
+phase changes in matter,Doc12,1
+phase changes in matter,Doc1,0
+phase changes in matter,Doc5,0
+particle arrangement and energy,Doc4,3
+particle arrangement and energy,Doc3,2
+particle arrangement and energy,Doc12,1
+particle arrangement and energy,Doc1,0
+particle arrangement and energy,Doc5,0
+temperature and state transitions,Doc4,3
+temperature and state transitions,Doc3,2
+temperature and state transitions,Doc12,1
+temperature and state transitions,Doc1,0
+temperature and state transitions,Doc5,0
+circulatory system,Doc5,3
+circulatory system,Doc2,1
+circulatory system,Doc1,0
+circulatory system,Doc4,0
+circulatory system,Doc3,0
+cardiovascular system heart blood vessels,Doc5,3
+cardiovascular system heart blood vessels,Doc2,1
+cardiovascular system heart blood vessels,Doc1,0
+cardiovascular system heart blood vessels,Doc4,0
+cardiovascular system heart blood vessels,Doc3,0
+oxygen transport in the body,Doc5,3
+oxygen transport in the body,Doc2,1
+oxygen transport in the body,Doc1,0
+oxygen transport in the body,Doc4,0
+oxygen transport in the body,Doc3,0
+blood circulation and nutrients,Doc5,3
+blood circulation and nutrients,Doc2,1
+blood circulation and nutrients,Doc1,0
+blood circulation and nutrients,Doc4,0
+blood circulation and nutrients,Doc3,0
+human circulatory network,Doc5,3
+human circulatory network,Doc2,1
+human circulatory network,Doc1,0
+human circulatory network,Doc4,0
+human circulatory network,Doc3,0
+artificial intelligence,Doc6,3
+artificial intelligence,Doc7,2
+artificial intelligence,Doc20,2
+artificial intelligence,Doc8,1
+artificial intelligence,Doc5,0
+intelligent systems and reasoning,Doc6,3
+intelligent systems and reasoning,Doc7,2
+intelligent systems and reasoning,Doc20,2
+intelligent systems and reasoning,Doc8,1
+intelligent systems and reasoning,Doc5,0
+AI decision making,Doc6,3
+AI decision making,Doc7,2
+AI decision making,Doc20,2
+AI decision making,Doc8,1
+AI decision making,Doc5,0
+applications of artificial intelligence,Doc6,3
+applications of artificial intelligence,Doc7,2
+applications of artificial intelligence,Doc20,2
+applications of artificial intelligence,Doc8,1
+applications of artificial intelligence,Doc5,0
+machine intelligence and automation,Doc6,3
+machine intelligence and automation,Doc7,2
+machine intelligence and automation,Doc20,2
+machine intelligence and automation,Doc8,1
+machine intelligence and automation,Doc5,0
+machine learning,Doc7,3
+machine learning,Doc20,2
+machine learning,Doc8,2
+machine learning,Doc6,1
+machine learning,Doc18,0
+supervised and unsupervised learning,Doc7,3
+supervised and unsupervised learning,Doc20,2
+supervised and unsupervised learning,Doc8,2
+supervised and unsupervised learning,Doc6,1
+supervised and unsupervised learning,Doc18,0
+reinforcement learning algorithms,Doc7,3
+reinforcement learning algorithms,Doc20,2
+reinforcement learning algorithms,Doc8,2
+reinforcement learning algorithms,Doc6,1
+reinforcement learning algorithms,Doc18,0
+model training and overfitting,Doc7,3
+model training and overfitting,Doc20,2
+model training and overfitting,Doc8,2
+model training and overfitting,Doc6,1
+model training and overfitting,Doc18,0
+predictive learning from data,Doc7,3
+predictive learning from data,Doc20,2
+predictive learning from data,Doc8,2
+predictive learning from data,Doc6,1
+predictive learning from data,Doc18,0
+data science,Doc8,3
+data science,Doc7,2
+data science,Doc18,2
+data science,Doc20,1
+data science,Doc14,0
+data cleaning visualization and statistics,Doc8,3
+data cleaning visualization and statistics,Doc7,2
+data cleaning visualization and statistics,Doc18,2
+data cleaning visualization and statistics,Doc20,1
+data cleaning visualization and statistics,Doc14,0
+data analysis workflow,Doc8,3
+data analysis workflow,Doc7,2
+data analysis workflow,Doc18,2
+data analysis workflow,Doc20,1
+data analysis workflow,Doc14,0
+reproducible notebooks in data science,Doc8,3
+reproducible notebooks in data science,Doc7,2
+reproducible notebooks in data science,Doc18,2
+reproducible notebooks in data science,Doc20,1
+reproducible notebooks in data science,Doc14,0
+statistical modeling for data science,Doc8,3
+statistical modeling for data science,Doc7,2
+statistical modeling for data science,Doc18,2
+statistical modeling for data science,Doc20,1
+statistical modeling for data science,Doc14,0
+database systems,Doc9,3
+database systems,Doc18,2
+database systems,Doc15,1
+database systems,Doc14,1
+database systems,Doc5,0
+relational database tables and SQL,Doc9,3
+relational database tables and SQL,Doc18,2
+relational database tables and SQL,Doc15,1
+relational database tables and SQL,Doc14,1
+relational database tables and SQL,Doc5,0
+primary keys and database design,Doc9,3
+primary keys and database design,Doc18,2
+primary keys and database design,Doc15,1
+primary keys and database design,Doc14,1
+primary keys and database design,Doc5,0
+data storage and retrieval,Doc9,3
+data storage and retrieval,Doc18,2
+data storage and retrieval,Doc15,1
+data storage and retrieval,Doc14,1
+data storage and retrieval,Doc5,0
+database normalization concepts,Doc9,3
+database normalization concepts,Doc18,2
+database normalization concepts,Doc15,1
+database normalization concepts,Doc14,1
+database normalization concepts,Doc5,0
+networking,Doc10,3
+networking,Doc11,2
+networking,Doc13,1
+networking,Doc12,1
+networking,Doc5,0
+computer communication protocols,Doc10,3
+computer communication protocols,Doc11,2
+computer communication protocols,Doc13,1
+computer communication protocols,Doc12,1
+computer communication protocols,Doc5,0
+routers switches and packet routing,Doc10,3
+routers switches and packet routing,Doc11,2
+routers switches and packet routing,Doc13,1
+routers switches and packet routing,Doc12,1
+routers switches and packet routing,Doc5,0
+network infrastructure basics,Doc10,3
+network infrastructure basics,Doc11,2
+network infrastructure basics,Doc13,1
+network infrastructure basics,Doc12,1
+network infrastructure basics,Doc5,0
+network performance and bandwidth,Doc10,3
+network performance and bandwidth,Doc11,2
+network performance and bandwidth,Doc13,1
+network performance and bandwidth,Doc12,1
+network performance and bandwidth,Doc5,0
+cybersecurity,Doc11,3
+cybersecurity,Doc10,1
+cybersecurity,Doc14,1
+cybersecurity,Doc13,1
+cybersecurity,Doc5,0
+phishing malware and security threats,Doc11,3
+phishing malware and security threats,Doc10,1
+phishing malware and security threats,Doc14,1
+phishing malware and security threats,Doc13,1
+phishing malware and security threats,Doc5,0
+encryption and secure coding,Doc11,3
+encryption and secure coding,Doc10,1
+encryption and secure coding,Doc14,1
+encryption and secure coding,Doc13,1
+encryption and secure coding,Doc5,0
+defending systems from cyber attacks,Doc11,3
+defending systems from cyber attacks,Doc10,1
+defending systems from cyber attacks,Doc14,1
+defending systems from cyber attacks,Doc13,1
+defending systems from cyber attacks,Doc5,0
+risk management in cybersecurity,Doc11,3
+risk management in cybersecurity,Doc10,1
+risk management in cybersecurity,Doc14,1
+risk management in cybersecurity,Doc13,1
+risk management in cybersecurity,Doc5,0
+operating systems,Doc12,3
+operating systems,Doc14,1
+operating systems,Doc15,1
+operating systems,Doc13,1
+operating systems,Doc10,0
+process scheduling and multitasking,Doc12,3
+process scheduling and multitasking,Doc14,1
+process scheduling and multitasking,Doc15,1
+process scheduling and multitasking,Doc13,1
+process scheduling and multitasking,Doc10,0
+memory management and virtual memory,Doc12,3
+memory management and virtual memory,Doc14,1
+memory management and virtual memory,Doc15,1
+memory management and virtual memory,Doc13,1
+memory management and virtual memory,Doc10,0
+system calls and kernel services,Doc12,3
+system calls and kernel services,Doc14,1
+system calls and kernel services,Doc15,1
+system calls and kernel services,Doc13,1
+system calls and kernel services,Doc10,0
+files devices and process control,Doc12,3
+files devices and process control,Doc14,1
+files devices and process control,Doc15,1
+files devices and process control,Doc13,1
+files devices and process control,Doc10,0
+cloud computing,Doc13,3
+cloud computing,Doc12,1
+cloud computing,Doc16,1
+cloud computing,Doc14,1
+cloud computing,Doc10,0
+infrastructure as a service,Doc13,3
+infrastructure as a service,Doc12,1
+infrastructure as a service,Doc16,1
+infrastructure as a service,Doc14,1
+infrastructure as a service,Doc10,0
+platform as a service and scaling,Doc13,3
+platform as a service and scaling,Doc12,1
+platform as a service and scaling,Doc16,1
+platform as a service and scaling,Doc14,1
+platform as a service and scaling,Doc10,0
+software as a service delivery,Doc13,3
+software as a service delivery,Doc12,1
+software as a service delivery,Doc16,1
+software as a service delivery,Doc14,1
+software as a service delivery,Doc10,0
+elastic cloud services,Doc13,3
+elastic cloud services,Doc12,1
+elastic cloud services,Doc16,1
+elastic cloud services,Doc14,1
+elastic cloud services,Doc10,0
+software engineering,Doc14,3
+software engineering,Doc15,1
+software engineering,Doc16,1
+software engineering,Doc13,1
+software engineering,Doc12,0
+requirements analysis and design,Doc14,3
+requirements analysis and design,Doc15,1
+requirements analysis and design,Doc16,1
+requirements analysis and design,Doc13,1
+requirements analysis and design,Doc12,0
+version control testing and code review,Doc14,3
+version control testing and code review,Doc15,1
+version control testing and code review,Doc16,1
+version control testing and code review,Doc13,1
+version control testing and code review,Doc12,0
+maintainable software development,Doc14,3
+maintainable software development,Doc15,1
+maintainable software development,Doc16,1
+maintainable software development,Doc13,1
+maintainable software development,Doc12,0
+modular software architecture,Doc14,3
+modular software architecture,Doc15,1
+modular software architecture,Doc16,1
+modular software architecture,Doc13,1
+modular software architecture,Doc12,0
+programming languages,Doc15,3
+programming languages,Doc14,1
+programming languages,Doc12,1
+programming languages,Doc16,1
+programming languages,Doc18,0
+syntax semantics and type systems,Doc15,3
+syntax semantics and type systems,Doc14,1
+syntax semantics and type systems,Doc12,1
+syntax semantics and type systems,Doc16,1
+syntax semantics and type systems,Doc18,0
+language portability and compilation,Doc15,3
+language portability and compilation,Doc14,1
+language portability and compilation,Doc12,1
+language portability and compilation,Doc16,1
+language portability and compilation,Doc18,0
+interpreters and compilers in programming languages,Doc15,3
+interpreters and compilers in programming languages,Doc14,1
+interpreters and compilers in programming languages,Doc12,1
+interpreters and compilers in programming languages,Doc16,1
+interpreters and compilers in programming languages,Doc18,0
+programming language design features,Doc15,3
+programming language design features,Doc14,1
+programming language design features,Doc12,1
+programming language design features,Doc16,1
+programming language design features,Doc18,0
+web development,Doc16,3
+web development,Doc14,2
+web development,Doc13,1
+web development,Doc15,1
+web development,Doc17,0
+front end and back end development,Doc16,3
+front end and back end development,Doc14,2
+front end and back end development,Doc13,1
+front end and back end development,Doc15,1
+front end and back end development,Doc17,0
+html css and javascript,Doc16,3
+html css and javascript,Doc14,2
+html css and javascript,Doc13,1
+html css and javascript,Doc15,1
+html css and javascript,Doc17,0
+responsive web applications and APIs,Doc16,3
+responsive web applications and APIs,Doc14,2
+responsive web applications and APIs,Doc13,1
+responsive web applications and APIs,Doc15,1
+responsive web applications and APIs,Doc17,0
+browser based web systems,Doc16,3
+browser based web systems,Doc14,2
+browser based web systems,Doc13,1
+browser based web systems,Doc15,1
+browser based web systems,Doc17,0
+computer graphics,Doc17,3
+computer graphics,Doc16,1
+computer graphics,Doc20,1
+computer graphics,Doc15,1
+computer graphics,Doc14,0
+rendering shading and lighting,Doc17,3
+rendering shading and lighting,Doc16,1
+rendering shading and lighting,Doc20,1
+rendering shading and lighting,Doc15,1
+rendering shading and lighting,Doc14,0
+texture mapping and transformations,Doc17,3
+texture mapping and transformations,Doc16,1
+texture mapping and transformations,Doc20,1
+texture mapping and transformations,Doc15,1
+texture mapping and transformations,Doc14,0
+visual scene generation in graphics,Doc17,3
+visual scene generation in graphics,Doc16,1
+visual scene generation in graphics,Doc20,1
+visual scene generation in graphics,Doc15,1
+visual scene generation in graphics,Doc14,0
+3D image computation,Doc17,3
+3D image computation,Doc16,1
+3D image computation,Doc20,1
+3D image computation,Doc15,1
+3D image computation,Doc14,0
+information retrieval,Doc18,3
+information retrieval,Doc8,2
+information retrieval,Doc19,2
+information retrieval,Doc9,1
+information retrieval,Doc14,0
+search engines indexing and ranking,Doc18,3
+search engines indexing and ranking,Doc8,2
+search engines indexing and ranking,Doc19,2
+search engines indexing and ranking,Doc9,1
+search engines indexing and ranking,Doc14,0
+term frequency and inverse document frequency,Doc18,3
+term frequency and inverse document frequency,Doc8,2
+term frequency and inverse document frequency,Doc19,2
+term frequency and inverse document frequency,Doc9,1
+term frequency and inverse document frequency,Doc14,0
+precision recall and relevance ranking,Doc18,3
+precision recall and relevance ranking,Doc8,2
+precision recall and relevance ranking,Doc19,2
+precision recall and relevance ranking,Doc9,1
+precision recall and relevance ranking,Doc14,0
+document retrieval systems,Doc18,3
+document retrieval systems,Doc8,2
+document retrieval systems,Doc19,2
+document retrieval systems,Doc9,1
+document retrieval systems,Doc14,0
+natural language processing,Doc19,3
+natural language processing,Doc20,2
+natural language processing,Doc6,1
+natural language processing,Doc18,1
+natural language processing,Doc15,0
+tokenization part of speech tagging,Doc19,3
+tokenization part of speech tagging,Doc20,2
+tokenization part of speech tagging,Doc6,1
+tokenization part of speech tagging,Doc18,1
+tokenization part of speech tagging,Doc15,0
+named entity recognition and text analysis,Doc19,3
+named entity recognition and text analysis,Doc20,2
+named entity recognition and text analysis,Doc6,1
+named entity recognition and text analysis,Doc18,1
+named entity recognition and text analysis,Doc15,0
+machine translation and summarization,Doc19,3
+machine translation and summarization,Doc20,2
+machine translation and summarization,Doc6,1
+machine translation and summarization,Doc18,1
+machine translation and summarization,Doc15,0
+human language understanding,Doc19,3
+human language understanding,Doc20,2
+human language understanding,Doc6,1
+human language understanding,Doc18,1
+human language understanding,Doc15,0
+deep learning,Doc20,3
+deep learning,Doc7,2
+deep learning,Doc6,2
+deep learning,Doc19,2
+deep learning,Doc17,0
+neural networks and backpropagation,Doc20,3
+neural networks and backpropagation,Doc7,2
+neural networks and backpropagation,Doc6,2
+neural networks and backpropagation,Doc19,2
+neural networks and backpropagation,Doc17,0
+convolutional neural networks,Doc20,3
+convolutional neural networks,Doc7,2
+convolutional neural networks,Doc6,2
+convolutional neural networks,Doc19,2
+convolutional neural networks,Doc17,0
+transformers and sequence models,Doc20,3
+transformers and sequence models,Doc7,2
+transformers and sequence models,Doc6,2
+transformers and sequence models,Doc19,2
+transformers and sequence models,Doc17,0
+gradient descent optimization,Doc20,3
+gradient descent optimization,Doc7,2
+gradient descent optimization,Doc6,2
+gradient descent optimization,Doc19,2
+gradient descent optimization,Doc17,0

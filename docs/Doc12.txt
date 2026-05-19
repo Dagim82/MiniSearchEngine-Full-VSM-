@@ -1,0 +1,1 @@
+Doc12: Operating Systems manage hardware resources and provide services for programs and users. An operating system handles processes, memory, files, devices, and scheduling so multiple applications can run efficiently. Core ideas include multitasking, virtual memory, synchronization, and system calls.

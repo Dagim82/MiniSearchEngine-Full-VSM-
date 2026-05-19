@@ -1,0 +1,1 @@
+Doc7: Machine Learning is a branch of artificial intelligence focused on algorithms that learn patterns from data. Supervised learning uses labeled examples, unsupervised learning finds hidden structure, and reinforcement learning learns through reward and feedback. Good machine learning practice includes feature selection, model validation, and avoiding overfitting.

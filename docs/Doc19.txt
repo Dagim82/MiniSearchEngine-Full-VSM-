@@ -1,0 +1,1 @@
+Doc19: Natural Language Processing enables computers to work with human language in text and speech form. NLP tasks include tokenization, part-of-speech tagging, named entity recognition, machine translation, and text summarization. Effective NLP systems must handle ambiguity, context, and differences in writing style.

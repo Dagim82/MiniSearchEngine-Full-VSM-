@@ -1,0 +1,1 @@
+Doc17: Computer Graphics studies how images and visual scenes are created computationally. Topics include rendering, shading, transformations, lighting, and texture mapping. Graphics systems are used in games, scientific visualization, simulation, animation, and user interface design.

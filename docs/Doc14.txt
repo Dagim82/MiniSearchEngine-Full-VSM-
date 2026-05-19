@@ -1,0 +1,1 @@
+Doc14: Software Engineering applies disciplined methods to design, build, test, and maintain software systems. Typical practices include requirements analysis, modular design, version control, code review, and automated testing. Good software engineering balances correctness, readability, maintainability, and delivery speed.
